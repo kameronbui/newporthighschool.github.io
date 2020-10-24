@@ -1,4 +1,29 @@
+<h3>click here to change the background color!!</h3>
+<select name=”clr” onchange=”document.bgColor=this.options[this.selectedIndex].value” size=”1″>
+    <br>
+    <option value=”black”>black
+        <option value=”orange”>orange
+            <option value=”flamingred”>fuschia
+                <option value=”lightyellow”>light yellow
+                    <option value=”green”>green
+                        <option value=”cyan”>cyan
+                            <option value=”yellow”>yellow
+                                <option value=”red”>red
+                                    <option value=”white”>white</option>
+</select>&nbsp;&nbsp;Background Color
 
+<br>
+<select name=”clr” onchange=”document.fgColor=this.options[this.selectedIndex].value” size=”1″>
+    <br>
+    <option value=”black”>black
+        <option value=”orange”>orange
+            <option value=”flamingred”>fuschia
+                <option value=”lightyellow”>light yellow
+                    <option value=”cyan”>cyan
+                        <option value=”yellow”>yellow
+                            <option value=”red”>red
+                                <option value=”white”>white</option>
+</select>&nbsp;&nbsp;Text Color
 ### NHS CS 
 -   [CS Edhesive](https://edhesive.com/){:target="_blank"}
 -   [Mr. Walker's Classroom Blog](http://mrwalker.learnbydoing.org/){:target="_blank"}
